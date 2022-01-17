@@ -1,5 +1,30 @@
 # Informe tarea 3
  
+ **Objetivos específicos** 
+ 
+-Analizar una onda sinusoidal con sus características como su forma y el voltaje sinusoidal
+
+-Investigar que es un fasor y que representa para poder comprender de mejor forma los ejercicios propuestos.
+
+-Recordar y aplicar las diferentes leyes que existen para un circuito resistivo como la ley de ohm, ley de voltajes y corrientes de Kirchhoff 
+
+-Investigar que es un osciloscopio y para que nos servirá tanto en la teoría como posteriormente en la practica 
+
+-Revisar las formulas del nuevo capítulo así como conceptos nuevos como la amplitud,cliclo,frecuencia,onda con la finalidad de ser más eficiente en la resolución de ejercicios.
+
+-Analizar cómo está compuesto un capacitor y cuál es su función dentro de un circuito.
+
+-Reconocer los diferentes tipos de capacitores dependiendo del material que estén construidos
+
+-Calcular las capacitancias de los capacitores dispuestos ya sea en serie como en paralelo
+
+**Conclusiones**
+-La fórmula de los capacitores en serie se asemejan a la fórmula de las resistencias en paralelo y esto también ocurre con la fórmula de las resistencias en serie que se parece a la de los capacitores en paralelo. 
+
+-La distancia en la que se encuentran las dos placas del capacitor van a determinar la capacitancia, si estas placas están muy alejadas su capacitancia va a ser muy pequeña y lo mismo en el caso de que se encuentren casi juntas.
+
+-Encontramos un término nuevo que es el dieléctrico que es un material que se encuentra entre las dos placas del resistor y dependiendo del material que esté construido esta capacitancia aumentará.
+
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS #
 
 **CAPITULO 11**
