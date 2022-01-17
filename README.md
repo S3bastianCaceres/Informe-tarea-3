@@ -328,3 +328,5 @@ Se va a reducir.
 -La distancia en la que se encuentran las dos placas del capacitor van a determinar la capacitancia, si estas placas están muy alejadas su capacitancia va a ser muy pequeña y lo mismo en el caso de que se encuentren casi juntas.
 
 -Encontramos un término nuevo que es el dieléctrico que es un material que se encuentra entre las dos placas del resistor y dependiendo del material que esté construido esta capacitancia aumentará.
+
+ - Al investigar, analizar los conceptos nuevos y las formulas nos permitió resolver los ejercicios de una forma más rápida y entendiendo que es lo que se está realizando. 
