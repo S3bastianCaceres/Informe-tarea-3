@@ -102,6 +102,19 @@ retrasa 90° con respecto a la A. Ambas ondas tienen amplitudes iguales.**
 
 <img src="https://latex.codecogs.com/svg.image?i=I_{P}sin\theta&space;=(100mA)sin(360)=0mA" title="i=I_{P}sin\theta =(100mA)sin(360)=0mA" />
 
+**21. Cierta onda seno tiene frecuencia de 2.2 kHz y valor rms de 25 V. Suponiendo que se inicia una ciclo
+dado (cruce por cero) en el instante t  0 s, ¿cuál es el cambio de voltaje desde 0.12 ms hasta 0.2 ms?**
+
+![imagen](https://user-images.githubusercontent.com/93798427/149817296-40bb61a6-7e51-4203-acd8-b9ed6cef89ba.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/149817416-9e39d2b4-fbd9-4ffe-a3ea-3d4ed4a7648a.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/149817621-da03fe84-175a-43be-9e90-89a9c1fa9963.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/149817689-54cb93b3-4dac-45ae-9022-896eed541d62.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/149817737-048ba6f8-79a4-42d0-b6d5-8105222f94e1.png)
+
 **23. Trace las ondas seno representadas por el diagrama fasorial de la figura 11-79. Las longitudes del fasor representan valores pico.**
 
 ![image](https://user-images.githubusercontent.com/93739242/149677598-42c34a62-3ccc-4500-87a2-5343f352506f.png)
@@ -150,9 +163,38 @@ Sabiendo que y=2.5V : tw=12ms
 
 <img src="https://latex.codecogs.com/svg.image?\\\textit{Ciclo&space;de&space;trabajo&space;en&space;porcentaje}=(\frac{t_{w}}{T})100%=(\frac{1}{6})100%=16.66%\\[10pt]V_{prom}=\textit{linea&space;de&space;base&space;&plus;&space;(ciclo&space;de&space;trabajo)(amplitud)}\\[10pt]V_{prom}=5V&plus;(0.16)(5V)=5.84V" title="\\\textit{Ciclo de trabajo en porcentaje}=(\frac{t_{w}}{T})100%=(\frac{1}{6})100%=16.66%\\[10pt]V_{prom}=\textit{linea de base + (ciclo de trabajo)(amplitud)}\\[10pt]V_{prom}=5V+(0.16)(5V)=5.84V" />
 
+**39. ¿Cuál es la frecuencia de cada forma de onda diente de sierra mostrada en la figura 11-87?**
+
+![imagen](https://user-images.githubusercontent.com/93798427/149817827-c24c6fa0-2a35-451b-bf7f-2a84989817e8.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/149817903-86ceac3c-8137-44b3-9cae-c99adc6a38f3.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/149818020-b9fb2c29-a349-4fa6-9690-d664a459df86.png
+
 **41. El periodo de una onda cuadrada es de 40 ms. Haga una lista con los seis primeros armónicos impares**
 
 <img src="https://latex.codecogs.com/svg.image?\\f=\frac{1}{40\mu&space;s}=\frac{10^{6}}{40}=25000=25&space;kHz&space;\\[10pt]3(25kHz)=75kHz\\[10pt]&space;5(25kHz)=125kHz\\[10pt]&space;7(25kHz)=175kHz\\[10pt]&space;9(25kHz)=225kHz\\[10pt]&space;11(25kHz)=275kHz\\[10pt]&space;13(25kHz)=325kHz\\[10pt]&space;&space;" title="\\f=\frac{1}{40\mu s}=\frac{10^{6}}{40}=25000=25 kHz \\[10pt]3(25kHz)=75kHz\\[10pt] 5(25kHz)=125kHz\\[10pt] 7(25kHz)=175kHz\\[10pt] 9(25kHz)=225kHz\\[10pt] 11(25kHz)=275kHz\\[10pt] 13(25kHz)=325kHz\\[10pt] " />
+
+**45. Examine la tarjeta prototipo y la pantalla del osciloscopio mostrado en la figura 11-91 y determine el
+valor pico y la frecuencia de la señal de entrada desconocida**
+
+![imagen](https://user-images.githubusercontent.com/93798427/149818123-5df31fa2-a649-4bcb-9732-f4e2d7724a0d.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/149818227-4dd9d40f-8207-4eab-ba91-65cfde6864b0.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/149818311-b7de5484-eef7-4b9b-90c8-a27eced9fa09.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/149818347-6730bac9-1376-4396-830a-41353827b407.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/149818446-8b1a61d1-83f8-4b4f-bf5b-d06ecf5ef2ce.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/149818484-692a0e50-2abd-4cb9-92f4-51129d69c6be.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/149818526-72c07b2c-1c88-4db0-a931-6fde18fe8fcc.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/149818587-f82f375f-b4ec-4dbb-b213-ba33af79ae90.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/149818647-86aba7df-ec4b-4971-917a-9133d934648d.png)
 
 **CAPITULO 12**
 
@@ -189,6 +231,17 @@ El de cerámica
 **17. Nombre dos tipos de capacitores electrolíticos. ¿Cómo difieren los capacitores electrolíticos de otros capacitores?**
 
 Dos tipos de condensadores electrolíticos están hechos de aluminio y tántalo. Los capacitores electrolíticos están polarizados, lo que significa que un extremo es positivo y el otro negativo. Este resultado en una capacitancia posible más alta, pero significa que están conectados en una cierta orientación a la función. Si el condensador polarizado está conectado hacia atrás, puede explotar y causar lesiones.
+
+**21. Determine la capacitancia total para cada uno de los circuitos mostrados en la figura 12-69.**
+
+![imagen](https://user-images.githubusercontent.com/93798427/149668550-83d9375c-1499-49a8-9855-7f5e80aeffb7.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/149668542-837a5df6-85e7-469b-9f4b-fc3c8f405ca7.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/149668587-47455fb2-fdc2-44d7-8bac-ac76ec4db510.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/149668615-2c67f638-e508-4ea5-94ee-567ee004b50c.png)
+
 
 **23. Dos capacitores en serie (uno de 1 mF, el otro de valor desconocido) se cargan con una fuente de 12 V. El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del capacitor desconocido?**
 
@@ -329,4 +382,4 @@ Se va a reducir.
 
 -Encontramos un término nuevo que es el dieléctrico que es un material que se encuentra entre las dos placas del resistor y dependiendo del material que esté construido esta capacitancia aumentará.
 
- - Al investigar, analizar los conceptos nuevos y las formulas nos permitió resolver los ejercicios de una forma más rápida y entendiendo que es lo que se está realizando. 
+- Al investigar, analizar los conceptos nuevos y las formulas nos permitió resolver los ejercicios de una forma más rápida y entendiendo que es lo que se está realizando. 
