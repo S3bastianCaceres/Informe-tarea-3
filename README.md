@@ -2,21 +2,21 @@
  
  **Objetivos específicos** 
  
--Analizar una onda sinusoidal con sus características como su forma y el voltaje sinusoidal
+- Analizar una onda sinusoidal con sus características como su forma y el voltaje sinusoidal
 
--Investigar que es un fasor y que representa para poder comprender de mejor forma los ejercicios propuestos.
+- Investigar que es un fasor y que representa para poder comprender de mejor forma los ejercicios propuestos.
 
--Recordar y aplicar las diferentes leyes que existen para un circuito resistivo como la ley de ohm, ley de voltajes y corrientes de Kirchhoff 
+- Recordar y aplicar las diferentes leyes que existen para un circuito resistivo como la ley de ohm, ley de voltajes y corrientes de Kirchhoff 
 
--Investigar que es un osciloscopio y para que nos servirá tanto en la teoría como posteriormente en la practica 
+- Investigar que es un osciloscopio y para que nos servirá tanto en la teoría como posteriormente en la practica 
 
--Revisar las formulas del nuevo capítulo así como conceptos nuevos como la amplitud,cliclo,frecuencia,onda con la finalidad de ser más eficiente en la resolución de ejercicios.
+- Revisar las formulas del nuevo capítulo así como conceptos nuevos como la amplitud,cliclo,frecuencia,onda con la finalidad de ser más eficiente en la resolución de ejercicios.
 
--Analizar cómo está compuesto un capacitor y cuál es su función dentro de un circuito.
+- Analizar cómo está compuesto un capacitor y cuál es su función dentro de un circuito.
 
--Reconocer los diferentes tipos de capacitores dependiendo del material que estén construidos
+- Reconocer los diferentes tipos de capacitores dependiendo del material que estén construidos
 
--Calcular las capacitancias de los capacitores dispuestos ya sea en serie como en paralelo
+- Calcular las capacitancias de los capacitores dispuestos ya sea en serie como en paralelo
 
 
 
@@ -103,7 +103,7 @@ retrasa 90° con respecto a la A. Ambas ondas tienen amplitudes iguales.**
 <img src="https://latex.codecogs.com/svg.image?i=I_{P}sin\theta&space;=(100mA)sin(360)=0mA" title="i=I_{P}sin\theta =(100mA)sin(360)=0mA" />
 
 **21. Cierta onda seno tiene frecuencia de 2.2 kHz y valor rms de 25 V. Suponiendo que se inicia una ciclo
-dado (cruce por cero) en el instante t  0 s, ¿cuál es el cambio de voltaje desde 0.12 ms hasta 0.2 ms?**
+dado (cruce por cero) en el instante t = 0 s, ¿cuál es el cambio de voltaje desde 0.12 ms hasta 0.2 ms?**
 
 ![imagen](https://user-images.githubusercontent.com/93798427/149817296-40bb61a6-7e51-4203-acd8-b9ed6cef89ba.png)
 
@@ -169,7 +169,7 @@ Sabiendo que y=2.5V : tw=12ms
 
 ![imagen](https://user-images.githubusercontent.com/93798427/149817903-86ceac3c-8137-44b3-9cae-c99adc6a38f3.png)
 
-![imagen](https://user-images.githubusercontent.com/93798427/149818020-b9fb2c29-a349-4fa6-9690-d664a459df86.png
+![imagen](https://user-images.githubusercontent.com/93798427/149818020-b9fb2c29-a349-4fa6-9690-d664a459df86.png)
 
 **41. El periodo de una onda cuadrada es de 40 ms. Haga una lista con los seis primeros armónicos impares**
 
@@ -378,8 +378,8 @@ Se va a reducir.
 # Conclusiones
 -La fórmula de los capacitores en serie se asemejan a la fórmula de las resistencias en paralelo y esto también ocurre con la fórmula de las resistencias en serie que se parece a la de los capacitores en paralelo. 
 
--La distancia en la que se encuentran las dos placas del capacitor van a determinar la capacitancia, si estas placas están muy alejadas su capacitancia va a ser muy pequeña y lo mismo en el caso de que se encuentren casi juntas.
+- La distancia en la que se encuentran las dos placas del capacitor van a determinar la capacitancia, si estas placas están muy alejadas su capacitancia va a ser muy pequeña y lo mismo en el caso de que se encuentren casi juntas.
 
--Encontramos un término nuevo que es el dieléctrico que es un material que se encuentra entre las dos placas del resistor y dependiendo del material que esté construido esta capacitancia aumentará.
+- Encontramos un término nuevo que es el dieléctrico que es un material que se encuentra entre las dos placas del resistor y dependiendo del material que esté construido esta capacitancia aumentará.
 
 - Al investigar, analizar los conceptos nuevos y las formulas nos permitió resolver los ejercicios de una forma más rápida y entendiendo que es lo que se está realizando. 
