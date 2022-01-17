@@ -2,6 +2,8 @@
  
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS #
 
+**CAPITULO 11**
+
 **5. La espira conductora del rotor de un generador monofásico de dos polos gira a 250 rps. ¿Cuál es la frecuencia del voltaje de salida inducido?**
 
 <img src="https://latex.codecogs.com/svg.image?f=\textit{(numero&space;de&space;pares&space;de&space;polos)(rps)}=(1)(250)(rps)=250Hz" title="f=\textit{(numero de pares de polos)(rps)}=(1)(250)(rps)=250Hz" />
