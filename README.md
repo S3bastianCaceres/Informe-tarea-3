@@ -316,6 +316,12 @@ valor pico y la frecuencia de la señal de entrada desconocida**
 
 **CAPITULO 12**
 
+[![1.png](https://i.postimg.cc/MZnby9bN/1.png)](https://postimg.cc/MX8QwbLm)
+
+a) 5 micro F
+b) 1 micro C
+c) 10 V
+
 **3. Transforme los siguientes valores de picofarads a microfarads:
 (a) 1000 pF (b) 3500 pF (c) 250 pF**
 
@@ -338,9 +344,18 @@ valor pico y la frecuencia de la señal de entrada desconocida**
 
 ![imagen](https://user-images.githubusercontent.com/93798427/149668402-996dfdfb-f29e-428a-aae5-813593fe7124.png)
 
+[![2.png](https://i.postimg.cc/43nnrSdT/2.png)](https://postimg.cc/3y5KG9mL)
+
+<img src="https://latex.codecogs.com/svg.image?a)8.85\times&space;10^{-12}F/m\\b)35.4\times&space;10^{-12}F/m\\c)66.4\times&space;10^{-12}F/m\\d)17.7\times&space;10^{-12}F/m\" title="a)8.85\times 10^{-12}F/m\\b)35.4\times 10^{-12}F/m\\c)66.4\times 10^{-12}F/m\\d)17.7\times 10^{-12}F/m\" />
+
 **11. Un estudiante decide construir un capacitor con dos placas conductoras de 30 cm por lado. Separa las placas con un dieléctrico de papel (er = 2.5) de 8 * 10ˆ-5 de espesor. ¿Cuál es la capacitancia de su capacitor?**
 
 <img src="https://latex.codecogs.com/svg.image?\\\textit{Area&space;del&space;capacitador}=(0.3m)^{2}=0.09m^{2}\\[10pt]C=\frac{A\varepsilon&space;_{r}\varepsilon&space;_{o}}{d}=\frac{(0.09m^{2})(2.5)(8.85*10^{-12}F/m)}{8*10^{-5}m}=0.0249\mu&space;F" title="\\\textit{Area del capacitador}=(0.3m)^{2}=0.09m^{2}\\[10pt]C=\frac{A\varepsilon _{r}\varepsilon _{o}}{d}=\frac{(0.09m^{2})(2.5)(8.85*10^{-12}F/m)}{8*10^{-5}m}=0.0249\mu F" />
+
+[![3.png](https://i.postimg.cc/j5HT9Hzb/3.png)](https://postimg.cc/MMpgfjPP)
+
+Incremento de 12.5 pF
+
 
 **15. De mica o cerámica, ¿cuál tipo de capacitor tiene la constante dieléctrica más alta?**
 
@@ -349,6 +364,13 @@ El de cerámica
 **17. Nombre dos tipos de capacitores electrolíticos. ¿Cómo difieren los capacitores electrolíticos de otros capacitores?**
 
 Dos tipos de condensadores electrolíticos están hechos de aluminio y tántalo. Los capacitores electrolíticos están polarizados, lo que significa que un extremo es positivo y el otro negativo. Este resultado en una capacitancia posible más alta, pero significa que están conectados en una cierta orientación a la función. Si el condensador polarizado está conectado hacia atrás, puede explotar y causar lesiones.
+
+
+
+[![4.png](https://i.postimg.cc/9MY31WhX/4.png)](https://postimg.cc/dk3SVc3g)
+
+<img src="https://latex.codecogs.com/svg.image?a)0.022\mu&space;F\\b)0.047\mu&space;F\\c)0.001\mu&space;F\\d)220&space;p&space;F\" title="a)0.022\mu F\\b)0.047\mu F\\c)0.001\mu F\\d)220 p F\" />
+
 
 **21. Determine la capacitancia total para cada uno de los circuitos mostrados en la figura 12-69.**
 
@@ -366,6 +388,15 @@ Dos tipos de condensadores electrolíticos están hechos de aluminio y tántalo.
 ![image](https://user-images.githubusercontent.com/93739242/149677697-fc6049fd-068e-441f-bd73-8a72f37c4df9.png)
 
 <img src="https://latex.codecogs.com/svg.image?\\V_{1}=(\frac{C_{T}}{C_{1}})=V_{s}\to&space;C_{T}=(\frac{V_{1}}{V_{s}})C_{1}\\[10pt]C_{T}=(\frac{8V}{12V})(1\mu&space;F)=0.667\mu&space;F\\[10pt]V_{2}=(\frac{C_{T}}{C_{2}})=V_{s}\to&space;C_{2}=(\frac{V_{s}}{V_{2}})C_{T}\\[10pt]C_{2}=(\frac{12V}{4V})(0.667\mu&space;F)=2\mu&space;F&space;" title="\\V_{1}=(\frac{C_{T}}{C_{1}})=V_{s}\to C_{T}=(\frac{V_{1}}{V_{s}})C_{1}\\[10pt]C_{T}=(\frac{8V}{12V})(1\mu F)=0.667\mu F\\[10pt]V_{2}=(\frac{C_{T}}{C_{2}})=V_{s}\to C_{2}=(\frac{V_{s}}{V_{2}})C_{T}\\[10pt]C_{2}=(\frac{12V}{4V})(0.667\mu F)=2\mu F " />
+
+
+25. Determine la CT para cada circuito de la figura 12-71. 
+
+[![f5.png](https://i.postimg.cc/cLpVSK14/f5.png)](https://postimg.cc/Xrg2KYyT)
+
+a)1057pF
+b)0.121 micro F
+
 
 **27. Determine la CT para cada circuito de la figura 12-72.**
 
@@ -424,6 +455,15 @@ Parte c
 
 <img src="https://latex.codecogs.com/svg.image?\begin{aligned}V_{4}&space;&=(\frac{C_{T2}}{C_{4}})V_{s}\\&=(\frac{0.0256&space;\mu&space;F}{0.056\mu&space;F})(12V)&space;\\&=(0.457)(12V)&space;\\V_{4}&space;&=5.48&space;V\end{aligned}" title="\begin{aligned}V_{4} &=(\frac{C_{T2}}{C_{4}})V_{s}\\&=(\frac{0.0256 \mu F}{0.056\mu F})(12V) \\&=(0.457)(12V) \\V_{4} &=5.48 V\end{aligned}" />
 
+
+
+
+
+[![6.png](https://i.postimg.cc/BQtyP5Xn/6.png)](https://postimg.cc/KRSQdMP6)
+
+<img src="https://latex.codecogs.com/svg.image?a)13.2&space;m&space;s\\b)247.5\mu&space;s\\c)11\mu&space;s\\d)280&space;\mu&space;S\" title="a)13.2 m s\\b)247.5\mu s\\c)11\mu s\\d)280 \mu S\" />
+
+
 **33. En la figura 12-75, el capacitor se carga a 25 V. Cuando se cierra el interruptor, ¿cuál es el voltaje presente en el capacitor en los instantes posteriores?
 (a) 1.5 ms (b) 4.5 ms (c) 6 ms (d) 7.5 ms**
 
@@ -443,6 +483,16 @@ Parte c
 ![image](https://user-images.githubusercontent.com/93739242/149677769-74edcbcb-c62e-4c0a-8416-947c03002553.png)
 
 <img src="https://latex.codecogs.com/svg.image?\\v=Ve^{-t/RC}\to&space;v=(25V)e^{-t/(1k\Omega&space;)(1.5\mu&space;F)}\to&space;v=25e^{-t/(1.5ms)}\\[10pt]\textit{Voltaje&space;instantaneo&space;del&space;capacitor&space;en&space;el&space;tiempo&space;}t=0.5ms&space;\\[10pt]v=25e^{-t/(1.5ms)}\to&space;v=25e^{-(0.5ms)/(1.5ms)}\\[10pt]v=25e^{-0.33}=25(0.7168)=17.9V\\[10pt]\textit{Voltaje&space;instantaneo&space;del&space;capacitor&space;en&space;el&space;tiempo&space;}t=1ms&space;\\[10pt]v=25e^{-t/(1.5ms)}\to&space;v=25e^{-(1ms)/(1.5ms)}\\[10pt]v=25e^{-0.67}=25(0.5117)=12.8V\\[10pt]&space;\textit{Voltaje&space;instantaneo&space;del&space;capacitor&space;en&space;el&space;tiempo&space;}t=2ms&space;\\[10pt]v=25e^{-t/(1.5ms)}\to&space;v=25e^{-(2ms)/(1.5ms)}\\[10pt]v=25e^{-1.33}=25(0.2645)=6.61V\\[10pt]&space;&space;" title="\\v=Ve^{-t/RC}\to v=(25V)e^{-t/(1k\Omega )(1.5\mu F)}\to v=25e^{-t/(1.5ms)}\\[10pt]\textit{Voltaje instantaneo del capacitor en el tiempo }t=0.5ms \\[10pt]v=25e^{-t/(1.5ms)}\to v=25e^{-(0.5ms)/(1.5ms)}\\[10pt]v=25e^{-0.33}=25(0.7168)=17.9V\\[10pt]\textit{Voltaje instantaneo del capacitor en el tiempo }t=1ms \\[10pt]v=25e^{-t/(1.5ms)}\to v=25e^{-(1ms)/(1.5ms)}\\[10pt]v=25e^{-0.67}=25(0.5117)=12.8V\\[10pt] \textit{Voltaje instantaneo del capacitor en el tiempo }t=2ms \\[10pt]v=25e^{-t/(1.5ms)}\to v=25e^{-(2ms)/(1.5ms)}\\[10pt]v=25e^{-1.33}=25(0.2645)=6.61V\\[10pt] " />
+
+
+
+
+37. ¿Cuánto tiempo requiere C para cargarse a 8 V en la figura 12-74?
+
+[![f6.png](https://i.postimg.cc/4x1sBbQR/f6.png)](https://postimg.cc/nXMyLmW3)
+
+
+7.62 micro s
 
 **39. Determine la constante de tiempo para el circuito de la figura**
 
@@ -475,6 +525,18 @@ Parte c
 
 ![image](https://user-images.githubusercontent.com/93739242/149677823-3239a051-8420-475e-beb1-674c5b0b4044.png)
 
+
+43. En la figura 12-72, cada fuente de voltaje de cd es reemplazada por una fuente de 10 V de 2 kHz. Determine la reactancia total en cada caso.
+
+[![f7.png](https://i.postimg.cc/7ZJSzh3z/f7.png)](https://postimg.cc/pmx9b21V)
+
+
+a)30 ohms
+b)113 k ohms
+c)49.7 ohms
+
+[![43.png](https://i.postimg.cc/4NsWg6T3/43.png)](https://postimg.cc/239QdByp)
+
 **45. Un voltaje sinusoidal de 20 V rms produce una corriente rms de 100 mA cuando se conecta a cierto capacitor. ¿Cuál es la reactancia?**
 
 ![imagen](https://user-images.githubusercontent.com/93798427/149669210-17db5e61-c75e-48ea-898c-513bea9a5fd9.png)
@@ -488,6 +550,13 @@ Parte c
 la figura 12-53, ¿cómo se ve afectado el voltaje de fluctuación?**
 
 Se va a reducir. 
+
+49. Determine el valor de C1 en la figura 12-82.
+
+
+[![f8.png](https://i.postimg.cc/tgtZdxYs/f8.png)](https://postimg.cc/3yNxYWjh)
+
+0.00541 micro F
 
 **53. En un circuito de capacitor conmutado, el capacitor tiene un valor de 2200 pF y se conmuta con una forma de onda cuyo periodo es de 10 ms. Determine el valor del resistor que se emula.**
 
