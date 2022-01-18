@@ -4,6 +4,8 @@
 
 **Objetivo General**
  
+ Analizar y comprender el estudio de el análisis de circuitos de Corriente Alterna en el cual se estudian las señales electricas que varian con el tiempo, en particular la onda seno donde esta es especialmente importante para este tipo de analisis en estos circuitos, además, se reconocera el conpecto de capacitores e inductores con el fin de analizar sus caracteristicas y funcionalidad la cual es importante para el estudio de circuitos reactivos en funcion de la frecuencia y el tiempo.
+ 
  **Objetivos específicos** 
  
 - Analizar una onda sinusoidal con sus características como su forma y el voltaje sinusoidal
