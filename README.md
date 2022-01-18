@@ -35,6 +35,35 @@
 
 **CAPITULO 11**
 
+1. Calcule la frecuencia con cada uno de los siguientes valores de periodo:
+
+a)1s
+
+<img src="https://latex.codecogs.com/svg.image?f=\frac{1}{T}=\frac{1}{1s}=1Hz" title="f=\frac{1}{T}=\frac{1}{1s}=1Hz" />
+
+b)0.2s
+
+<img src="https://latex.codecogs.com/svg.image?f=\frac{1}{T}=\frac{1}{0.2s}=5Hz" title="f=\frac{1}{T}=\frac{1}{0.2s}=5Hz" />
+
+c)50ms
+
+<img src="https://latex.codecogs.com/svg.image?f=\frac{1}{T}=\frac{1}{50&space;ms}=\frac{1}{50\times&space;10^{-3}s}=20Hz" title="f=\frac{1}{T}=\frac{1}{50 ms}=\frac{1}{50\times 10^{-3}s}=20Hz" />
+
+d)1ms
+
+<img src="https://latex.codecogs.com/svg.image?f=\frac{1}{T}=\frac{1}{1&space;ms}=\frac{1}{1\times&space;10^{-3}s}=1kHz" title="f=\frac{1}{T}=\frac{1}{1 ms}=\frac{1}{1\times 10^{-3}s}=1kHz" />
+
+e)500 micro segundos
+
+<img src="https://latex.codecogs.com/svg.image?f=\frac{1}{T}=\frac{1}{500&space;\mu&space;s}=\frac{1}{500\times&space;10^{-6}s}=2kHz" title="f=\frac{1}{T}=\frac{1}{500 \mu s}=\frac{1}{500\times 10^{-6}s}=2kHz" />
+
+f)10 micro segundos
+
+<img src="https://latex.codecogs.com/svg.image?f=\frac{1}{T}=\frac{1}{10&space;\mu&space;s}=\frac{1}{10\times&space;10^{-6}s}=100kHz" title="f=\frac{1}{T}=\frac{1}{10 \mu s}=\frac{1}{10\times 10^{-6}s}=100kHz" />
+
+
+
+
 **3. Una onda seno realiza 5 ciclos en 10 ms. ¿Cuál es su periodo?**
 
 ![imagen](https://user-images.githubusercontent.com/93798427/149666828-970d820d-c93f-41c3-ae91-ef9821b596f3.png)
@@ -55,6 +84,15 @@
 ![imagen](https://user-images.githubusercontent.com/93798427/149667070-dd31090e-16e7-4d77-9925-02480bf8939a.png)
 
 ![imagen](https://user-images.githubusercontent.com/93798427/149667131-89406100-0e9c-4dda-87e7-f687d4e6b0e1.png)
+
+
+7. ¿A qué rapidez de rotación debe ser operado un generador de cuatro polos para producir un voltaje sinusoidal de 400 Hz
+
+DATOS
+
+f = 400 Hz ; (numero de par de polos) = 2
+
+<img src="https://latex.codecogs.com/svg.image?f=&space;(\textrm{numero&space;de&space;pares&space;de&space;polos})(rpm)\\(rpm)=\frac{f}{\textrm{(numero&space;de&space;pares&space;de&space;polos})}&space;=&space;\frac{400Hz}{2}=200rps" title="f= (\textrm{numero de pares de polos})(rpm)\\(rpm)=\frac{f}{\textrm{(numero de pares de polos})} = \frac{400Hz}{2}=200rps" />
 
 **11. Transforme los siguientes valores angulares de grados a radianes:**
 
@@ -81,6 +119,15 @@
 (f) 300°
 
 <img src="https://latex.codecogs.com/svg.image?(\frac{\Pi&space;rad}{180^{o}})*300^{o}=\frac{5\Pi&space;}{3}rad\to5.236&space;rad" title="(\frac{\Pi rad}{180^{o}})*300^{o}=\frac{5\Pi }{3}rad\to5.236 rad" />
+
+
+13. Una onda seno A tiene un cruce por cero hacia positivo en 30°. La onda seno B tiene un cruce por cero hacia positivo en 45°. Determine el ángulo de fase que hay entre las dos señales. ¿Cuál señal es la
+que se adelanta?
+
+
+15°. A adelantada
+
+[![s-13.png](https://i.postimg.cc/zf7x33Sr/s-13.png)](https://postimg.cc/qtts5J5b)
 
 **15. Trace un bosquejo de dos ondas seno como sigue: la onda seno A es la referencia y la onda seno B se
 retrasa 90° con respecto a la A. Ambas ondas tienen amplitudes iguales.**
@@ -113,6 +160,20 @@ retrasa 90° con respecto a la A. Ambas ondas tienen amplitudes iguales.**
 
 <img src="https://latex.codecogs.com/svg.image?i=I_{P}sin\theta&space;=(100mA)sin(360)=0mA" title="i=I_{P}sin\theta =(100mA)sin(360)=0mA" />
 
+
+
+19. La onda seno A tiene 30° de retraso con respecto a la onda seno B. Ambas tienen valores pico de 15 V.
+La onda seno A es la referencia con un cruce por cero hacia positivo en 0°. Determine el valor instantáneo de la onda seno B en 30°, 45°, 90°, 180°, 200°, y 300°
+
+
+30°: 13.0V
+45°: 14.5V
+90°: 13V
+180°: -7.5V
+200°: -11.5V
+300°: -7.5V
+
+
 **21. Cierta onda seno tiene frecuencia de 2.2 kHz y valor rms de 25 V. Suponiendo que se inicia una ciclo
 dado (cruce por cero) en el instante t = 0 s, ¿cuál es el cambio de voltaje desde 0.12 ms hasta 0.2 ms?**
 
@@ -131,6 +192,23 @@ dado (cruce por cero) en el instante t = 0 s, ¿cuál es el cambio de voltaje de
 ![image](https://user-images.githubusercontent.com/93739242/149677598-42c34a62-3ccc-4500-87a2-5343f352506f.png)
 
 ![image](https://user-images.githubusercontent.com/93739242/149677600-7de46cae-fa06-498c-a0e4-982d86659490.png)
+
+
+
+
+25. Determine el valor de la onda seno A mostrada en la figura 11-78 en cada uno de los tiempos siguientes, medido a partir del cruce por cero hacia positivo. Suponga una frecuencia de 5 kHz.
+
+a) 30 micro segundos 
+
+156mV
+
+b) 75 micro segundos
+
+1V
+
+c) 125 micro segundos
+
+0V
 
 **27. Encuentre los valores promedio en medio ciclo de los voltajes presentes entre los extremos de R1 y R2
 en la figura 11-81. Todos los valores mostrados son rms. **
@@ -157,6 +235,13 @@ en la figura 11-81. Todos los valores mostrados son rms. **
 
 <img src="https://latex.codecogs.com/svg.image?V_{P}=\frac{V_{rms}}{0.707}=\frac{10.6}{0.707}=15V\\[10pt]V_{max}=V_{CD}&plus;&space;V_{P}=24V&plus;15V=39V\\[10pt]V_{mIN}=V_{CD}-V_{P}=24V-15V=9V&space;" title="V_{P}=\frac{V_{rms}}{0.707}=\frac{10.6}{0.707}=15V\\[10pt]V_{max}=V_{CD}+ V_{P}=24V+15V=39V\\[10pt]V_{mIN}=V_{CD}-V_{P}=24V-15V=9V " />
 
+
+
+31. Una onda pico de 6 V aparece montada en un voltaje de cd de 8 V. Si el voltaje de cd se reduce a 5 V,
+¿qué tan negativa llegaría a ser la onda seno?
+
+-1V
+
 **33. Con la gráfica de la figura 11-84, determine los valores aproximados de tr, tf, tW, y la amplitud**
 
 ![imagen](https://user-images.githubusercontent.com/93798427/149667722-854a2c1d-6105-4f77-92d1-a42d747f443e.png)
@@ -174,6 +259,16 @@ Sabiendo que y=2.5V : tw=12ms
 
 <img src="https://latex.codecogs.com/svg.image?\\\textit{Ciclo&space;de&space;trabajo&space;en&space;porcentaje}=(\frac{t_{w}}{T})100%=(\frac{1}{6})100%=16.66%\\[10pt]V_{prom}=\textit{linea&space;de&space;base&space;&plus;&space;(ciclo&space;de&space;trabajo)(amplitud)}\\[10pt]V_{prom}=5V&plus;(0.16)(5V)=5.84V" title="\\\textit{Ciclo de trabajo en porcentaje}=(\frac{t_{w}}{T})100%=(\frac{1}{6})100%=16.66%\\[10pt]V_{prom}=\textit{linea de base + (ciclo de trabajo)(amplitud)}\\[10pt]V_{prom}=5V+(0.16)(5V)=5.84V" />
 
+
+
+37. Determine el valor promedio de cada forma de onda pulsante mostrada en la figura 11-86.
+
+
+[![1.png](https://i.postimg.cc/6QrDc9rj/1.png)](https://postimg.cc/06NW21HD)
+
+a) -0.375V
+b)3.01V
+
 **39. ¿Cuál es la frecuencia de cada forma de onda diente de sierra mostrada en la figura 11-87?**
 
 ![imagen](https://user-images.githubusercontent.com/93798427/149817827-c24c6fa0-2a35-451b-bf7f-2a84989817e8.png)
@@ -185,6 +280,16 @@ Sabiendo que y=2.5V : tw=12ms
 **41. El periodo de una onda cuadrada es de 40 ms. Haga una lista con los seis primeros armónicos impares**
 
 <img src="https://latex.codecogs.com/svg.image?\\f=\frac{1}{40\mu&space;s}=\frac{10^{6}}{40}=25000=25&space;kHz&space;\\[10pt]3(25kHz)=75kHz\\[10pt]&space;5(25kHz)=125kHz\\[10pt]&space;7(25kHz)=175kHz\\[10pt]&space;9(25kHz)=225kHz\\[10pt]&space;11(25kHz)=275kHz\\[10pt]&space;13(25kHz)=325kHz\\[10pt]&space;&space;" title="\\f=\frac{1}{40\mu s}=\frac{10^{6}}{40}=25000=25 kHz \\[10pt]3(25kHz)=75kHz\\[10pt] 5(25kHz)=125kHz\\[10pt] 7(25kHz)=175kHz\\[10pt] 9(25kHz)=225kHz\\[10pt] 11(25kHz)=275kHz\\[10pt] 13(25kHz)=325kHz\\[10pt] " />
+
+
+43. Determine el valor pico y el periodo para la onda seno mostrada en la pantalla del osciloscopio de la
+figura 11-89. 
+
+
+[![2.png](https://i.postimg.cc/bvh5sK7Q/2.png)](https://postimg.cc/dh56fSt1)
+
+Valor pico= 600mV,  T = 500ms
+
 
 **45. Examine la tarjeta prototipo y la pantalla del osciloscopio mostrado en la figura 11-91 y determine el
 valor pico y la frecuencia de la señal de entrada desconocida**
@@ -206,6 +311,8 @@ valor pico y la frecuencia de la señal de entrada desconocida**
 ![imagen](https://user-images.githubusercontent.com/93798427/149818587-f82f375f-b4ec-4dbb-b213-ba33af79ae90.png)
 
 ![imagen](https://user-images.githubusercontent.com/93798427/149818647-86aba7df-ec4b-4971-917a-9133d934648d.png)
+
+
 
 **CAPITULO 12**
 
