@@ -31,6 +31,13 @@
 <a href="https://postimg.cc/1VZNdb4P" target="_blank"><img src="https://i.postimg.cc/yxDXDHHJ/CAPITULO-11-3.png" alt="CAPITULO-11-3"/></a><br/><br/>
 
 
+Capitulo 12
+
+
+[![map1.png](https://i.postimg.cc/8PG6cGwp/map1.png)](https://postimg.cc/bd6JVKKW)
+
+
+
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS #
 
 **CAPITULO 11**
