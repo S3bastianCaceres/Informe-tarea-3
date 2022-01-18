@@ -1,4 +1,8 @@
-# Informe tarea 3
+# Informe tarea 3 - 2P
+ 
+# OBJETIVOS #
+
+**Objetivo General**
  
  **Objetivos específicos** 
  
@@ -17,6 +21,8 @@
 - Reconocer los diferentes tipos de capacitores dependiendo del material que estén construidos
 
 - Calcular las capacitancias de los capacitores dispuestos ya sea en serie como en paralelo
+
+# MARCO TEORICO #
 
 
 
@@ -375,7 +381,12 @@ Se va a reducir.
 
 <img src="https://latex.codecogs.com/svg.image?R=\frac{T}{C}&space;\to&space;\frac{10\mu&space;s}{2200pF}\\[10pt]R=\frac{10*10^{-6}}{2200*10^{-12}}=\frac{1*10^{6}}{220}=4.55k\Omega&space;&space;" title="R=\frac{T}{C} \to \frac{10\mu s}{2200pF}\\[10pt]R=\frac{10*10^{-6}}{2200*10^{-12}}=\frac{1*10^{6}}{220}=4.55k\Omega " />
 
-# Conclusiones
+# VIDEO #
+
+
+
+# CONCLUSIONES #
+
 -La fórmula de los capacitores en serie se asemejan a la fórmula de las resistencias en paralelo y esto también ocurre con la fórmula de las resistencias en serie que se parece a la de los capacitores en paralelo. 
 
 - La distancia en la que se encuentran las dos placas del capacitor van a determinar la capacitancia, si estas placas están muy alejadas su capacitancia va a ser muy pequeña y lo mismo en el caso de que se encuentren casi juntas.
@@ -383,3 +394,6 @@ Se va a reducir.
 - Encontramos un término nuevo que es el dieléctrico que es un material que se encuentra entre las dos placas del resistor y dependiendo del material que esté construido esta capacitancia aumentará.
 
 - Al investigar, analizar los conceptos nuevos y las formulas nos permitió resolver los ejercicios de una forma más rápida y entendiendo que es lo que se está realizando. 
+
+# BIBLIOGRAFIA #
+
