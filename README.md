@@ -24,6 +24,11 @@
 
 # MARCO TEORICO #
 
+<a href="https://postimg.cc/G9kDD3Sp" target="_blank"><img src="https://i.postimg.cc/dQfjzL2G/CAPITULO-11-1.png" alt="CAPITULO-11-1"/></a><br/><br/>
+
+<a href="https://postimg.cc/Xp4CkMTk" target="_blank"><img src="https://i.postimg.cc/TYWJGf0F/CAPITULO-11-2.png" alt="CAPITULO-11-2"/></a><br/><br/>
+
+<a href="https://postimg.cc/1VZNdb4P" target="_blank"><img src="https://i.postimg.cc/yxDXDHHJ/CAPITULO-11-3.png" alt="CAPITULO-11-3"/></a><br/><br/>
 
 
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS #
@@ -383,11 +388,11 @@ Se va a reducir.
 
 # VIDEO #
 
-
+https://youtu.be/Bxv91jveb30
 
 # CONCLUSIONES #
 
--La fórmula de los capacitores en serie se asemejan a la fórmula de las resistencias en paralelo y esto también ocurre con la fórmula de las resistencias en serie que se parece a la de los capacitores en paralelo. 
+- La fórmula de los capacitores en serie se asemejan a la fórmula de las resistencias en paralelo y esto también ocurre con la fórmula de las resistencias en serie que se parece a la de los capacitores en paralelo. 
 
 - La distancia en la que se encuentran las dos placas del capacitor van a determinar la capacitancia, si estas placas están muy alejadas su capacitancia va a ser muy pequeña y lo mismo en el caso de que se encuentren casi juntas.
 
@@ -397,3 +402,8 @@ Se va a reducir.
 
 # BIBLIOGRAFIA #
 
+Pernía, M. A. (2011). Conceptos Básicos de Máquinas de corriente continua. San Cristobal: Núcle de Electrcidad.
+
+GARCÍA RODRÍGUEZ, K. L. (2021). GENERADOR DE ONDAS PARA EL MONITOREO DE SEÑALES EN CIRCUITOS DIGITALES EN LA CARRERA DE TECNOLOGÍAS DE LA INFORMACIÓN DE LA UNIVERSIDAD ESTATAL DEL SUR DE MANABÍ (Bachelor's thesis, Jipijapa. UNESUM).
+
+Espinosa Cárdenas, J. D., & López Ortega, C. H. (2019). Regulación automática de voltaje terminal de un generador trifásico de corriente alterna (Bachelor's thesis).
