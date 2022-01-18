@@ -36,7 +36,7 @@ Capitulo 12
 
 [![map1.png](https://i.postimg.cc/8PG6cGwp/map1.png)](https://postimg.cc/bd6JVKKW)
 
-
+[![MAPA-111.png](https://i.postimg.cc/sf5RKCzZ/MAPA-111.png)](https://postimg.cc/dDQXtXLq)
 
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS #
 
